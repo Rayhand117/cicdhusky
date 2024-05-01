@@ -1,3 +1,3 @@
 function addTwoNumbers(num1, num2) {
-  return num1 + num2 //Missing semicolon
+  return num1 + num2; //Missing semicolon
 }
